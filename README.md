@@ -14,6 +14,7 @@ python manage.py makemigrations
 python manage.py migrate
 3. Create a superuser for the admin site
 python manage.py createsuperuser
+
 4.Run the server
 python manage.py runserver
 
